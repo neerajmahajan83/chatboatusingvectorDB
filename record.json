@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "What is Airtel?",
+    "answer": "Airtel is a telecom company."
+  },
+  {
+    "id": 2,
+    "question": "How to check balance?",
+    "answer": "Dial *123# to check balance."
+  },
+  {
+    "id": 3,
+    "question": "How to forward call?",
+    "answer": "Use system Settings."
+  },
+  {
+    "id": 4,
+    "question": "what is infosys limited",
+    "answer": "Infosys Limited is an Indian multinational information technology company headquartered in Bangalore, Karnataka, India. It provides a range of consulting, software development, and IT services to clients worldwide. Infosys was founded in 1981 by a group of engineers and has since grown to become one of the largest IT companies in India and globally. The company operates in various sectors, including banking, healthcare, retail, and telecommunications, and offers services such as digital transformation, cloud computing, and data analytics. Infosys is known for its focus on innovation and has a significant presence in the United States, Europe, and other regions."
+  }
+]

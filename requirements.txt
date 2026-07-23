@@ -1,0 +1,6 @@
+Flask
+cohere
+faiss-cpu
+numpy
+python-decouple
+python-dotenv
